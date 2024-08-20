@@ -1,0 +1,9 @@
+.mywork-container img{
+    width:25%;
+       /* max-height: 50%; */
+    height: 50%;
+}
+.mywork-title{
+    display: flex;
+    flex-direction: column;
+}
